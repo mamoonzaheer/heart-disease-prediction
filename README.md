@@ -6,13 +6,9 @@ This project uses machine learning to predict the presence of heart disease base
 Features
 
 Binary classification of heart disease (present/absent)
-
 End-to-end ML pipeline with preprocessing, training, evaluation, and deployment
-
 Flask-based web application with HTML frontend
-
 Model serialization using joblib
-
 Interactive predictions based on user input
 
 
@@ -33,11 +29,8 @@ Heart-Disease-Prediction/
 Dataset
 
 Source: Kaggle
-
 Samples: 1000+
-
 Features: Age, Blood Pressure, Cholesterol, Heart Rate, etc.
-
 Target: HeartDisease (1 = Disease Present, 0 = No Disease)
 
 
