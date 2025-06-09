@@ -1,16 +1,16 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+#  Heart Disease Prediction using Machine Learning
 
 This project leverages machine learning techniques to predict the presence of heart disease using patient health data. It includes an end-to-end pipeline from data preprocessing and model training to web deployment using Flask.
 
 ---
 
-## 🚀 Overview
+##  Overview
 
 Heart disease is one of the leading causes of death worldwide. Early detection can significantly improve treatment outcomes. This project aims to assist medical professionals by providing a machine learning model that can predict the likelihood of heart disease based on key health indicators.
 
 ---
 
-## 🧠 Features
+##  Features
 
 - Binary classification: Detect presence or absence of heart disease
 - Data preprocessing pipeline using `scikit-learn`
@@ -21,7 +21,7 @@ Heart disease is one of the leading causes of death worldwide. Early detection c
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 heart-disease-prediction/
@@ -39,7 +39,7 @@ heart-disease-prediction/
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 - **Source**: Kaggle  
 - **Samples**: 1000+  
@@ -48,16 +48,16 @@ heart-disease-prediction/
 
 ---
 
-## 🧪 Models Used
+##  Models Used
 
 - Logistic Regression  
 - Decision Tree  
-- Random Forest ✅ (Best accuracy)  
+- Random Forest  (Best accuracy)  
 - Gradient Boosting  
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
 - Accuracy  
 - Precision  
@@ -66,7 +66,7 @@ heart-disease-prediction/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. **Clone the repository**
 
@@ -101,7 +101,7 @@ heart-disease-prediction/
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - Add explainability tools (e.g., SHAP, LIME)
 - Deploy on Render or Vercel
@@ -110,13 +110,13 @@ heart-disease-prediction/
 
 ---
 
-## 🙏 Acknowledgements
+##  Acknowledgements
 
 - [Kaggle](https://www.kaggle.com/) for the dataset  
 - Open-source community (Flask, Scikit-learn, Pandas, Seaborn)
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
